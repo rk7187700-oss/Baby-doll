@@ -1,0 +1,7 @@
+{
+  "name": "Aria // AI Female Companion Chat",
+  "description": "Friendly, natural, and engaging AI female companion chat platform. Speaks sweet, caring, and playful Hinglish in Roman script with natural voice synthesis and interactive expressions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
